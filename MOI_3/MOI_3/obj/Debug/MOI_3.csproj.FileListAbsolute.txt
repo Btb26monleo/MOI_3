@@ -1,0 +1,10 @@
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\bin\Debug\MOI_3.exe.config
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\bin\Debug\MOI_3.exe
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\bin\Debug\MOI_3.pdb
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\obj\Debug\MOI_3.csprojAssemblyReference.cache
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\obj\Debug\MOI_3.Form1.resources
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\obj\Debug\MOI_3.Properties.Resources.resources
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\obj\Debug\MOI_3.csproj.GenerateResource.cache
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\obj\Debug\MOI_3.csproj.CoreCompileInputs.cache
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\obj\Debug\MOI_3.exe
+E:\Hok T4p\gittest\MOI_3\MOI_3\MOI_3\MOI_3\obj\Debug\MOI_3.pdb
